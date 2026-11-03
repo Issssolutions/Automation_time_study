@@ -1,0 +1,18 @@
+{
+  "source": "0",
+  "polygon_path": "machine_area.json",
+  "output_csv": "time_study_log.csv",
+  "max_hands": 2,
+  "hand_model_path": "models/hand_landmarker.task",
+  "min_detection_confidence": 0.6,
+  "min_tracking_confidence": 0.5,
+  "smoothing_alpha": 0.35,
+  "boundary_margin_px": 8.0,
+  "min_inside_rule_points": 2,
+  "entry_confirm_seconds": 0.25,
+  "exit_confirm_seconds": 0.25,
+  "lost_grace_seconds": 0.5,
+  "reconnect_delay_seconds": 1.0,
+  "camera_width": 0,
+  "camera_height": 0
+}

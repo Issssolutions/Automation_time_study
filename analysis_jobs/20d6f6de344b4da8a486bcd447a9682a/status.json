@@ -1,0 +1,14 @@
+{
+  "state": "complete",
+  "message": "Analysis complete",
+  "processed_frames": 4899,
+  "total_frames": 4899,
+  "percent": 100,
+  "total_active_seconds": 43.53,
+  "interval_count": 23,
+  "current_state": "IDLE",
+  "source_fps": 29.976,
+  "duration_seconds": 163.399,
+  "analysis_csv": "analysis_intervals.csv",
+  "annotated_video": "annotated_analysis.mp4"
+}

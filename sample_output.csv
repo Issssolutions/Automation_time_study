@@ -1,0 +1,3 @@
+date,start_timestamp,end_timestamp,active_duration_seconds,total_accumulated_seconds,interval_number,detection_status
+2026-10-14,2026-10-14T09:15:02.134+05:30,2026-10-14T09:15:08.912+05:30,6.778,6.778,1,confirmed_exit
+2026-10-14,2026-10-14T09:15:13.440+05:30,2026-10-14T09:15:18.002+05:30,4.562,11.34,2,confirmed_detection_loss

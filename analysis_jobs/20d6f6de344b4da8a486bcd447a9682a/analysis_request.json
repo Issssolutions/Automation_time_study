@@ -1,0 +1,39 @@
+{
+  "polygon": [
+    [
+      2,
+      11
+    ],
+    [
+      370,
+      14
+    ],
+    [
+      369,
+      397
+    ],
+    [
+      8,
+      405
+    ]
+  ],
+  "config": {
+    "source": "0",
+    "polygon_path": "machine_area.json",
+    "output_csv": "E:\\Bharathi\\1new automate time study\\analysis_jobs\\20d6f6de344b4da8a486bcd447a9682a\\analysis_intervals.csv",
+    "max_hands": 2,
+    "hand_model_path": "models/hand_landmarker.task",
+    "min_detection_confidence": 0.6,
+    "min_tracking_confidence": 0.5,
+    "smoothing_alpha": 0.35,
+    "boundary_margin_px": 8.0,
+    "min_inside_rule_points": 2,
+    "entry_confirm_seconds": 0.25,
+    "exit_confirm_seconds": 0.25,
+    "lost_grace_seconds": 0.5,
+    "reconnect_delay_seconds": 1.0,
+    "camera_width": 0,
+    "camera_height": 0
+  },
+  "annotate": true
+}
